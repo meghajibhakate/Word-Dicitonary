@@ -11,8 +11,8 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 10%;
-    /* background-color: rgb(160, 206, 246); */
-    background-color: #1e88e5;
+    background-color: #ffffff;
+    /* background-color: #1e88e5; */
 }
 
 p{
@@ -20,13 +20,13 @@ p{
     /* margin-bottom: 20px; */
 }
 .container {
-    background-color: #ffffff;
+    background-color: #7dd4f3;
     width: 90vmin;
-    position: absolute;
-    top: 10%;
-    left: 30%;
+    /* position: absolute; */
+    /* top: 10%; */
+    /* left: 30%; */
     padding: 80px 50px;
-    border-radius: 10px;
+    border-radius: 60px;
     box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2)
 }
 h1 {
@@ -43,7 +43,7 @@ h1 {
     width: 85%;
     border: none;
     height: 45px;
-    background-color: rgb(157, 247, 253);
+    background-color: rgb(240, 245, 245);
     font-size: 22px;
     border-radius: 10px;
     box-shadow: 0 1px 2px 0 rgb(50 55 60 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%);
@@ -55,7 +55,7 @@ h1 {
     width: 10%;
     border: none;
     height: 45px;
-    background-color: rgb(157, 247, 253);
+    background-color: rgb(240, 245, 245);
     font-size: 22px;
     border-radius: 10px;
 }
